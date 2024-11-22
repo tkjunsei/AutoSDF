@@ -1,10 +1,13 @@
 import h5py
 import trimesh
 import numpy as np
-import marching_cubes as mcubes
+# import marching_cubes as mcubes
 import einops
 from einops import rearrange, repeat
 from termcolor import cprint
+
+# from skimage.measure import marching_cubes
+import mcubes
 
 
 import torch
@@ -400,3 +403,5 @@ def get_normalize_mesh(model_file):
     ori_mesh = as_mesh(ori_mesh_list)
     ori_mesh.vertices = (ori_mesh.vertices - centroid) / float(m)
     return ori_mesh, centroid, m
+
+

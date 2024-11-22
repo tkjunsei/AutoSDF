@@ -1,0 +1,78 @@
+[33mcommit 4e372f1d9707ab06440accaf5b33bd70081b2283[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yenchi <yenchi>
+Date:   Wed Mar 15 01:27:54 2023 -0500
+
+    update README, clean up unused functions/files for readability.
+
+[33mcommit 0a480dc6051d3afb34dc75d0ebdc6e14d5e2a287[m
+Author: Yen-Chi Cheng <charlescheng0117@gmail.com>
+Date:   Wed Jun 8 21:19:45 2022 +0800
+
+    Update process_one_mesh.py
+
+[33mcommit ca1f9453ea37c80f9e404eefbcc0c74da2785273[m
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Tue Apr 26 15:52:34 2022 -0400
+
+    add issues and demo_data
+
+[33mcommit dd0aba8cb971104746a2fb6d2a8a3b0b935722f6[m
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Tue Apr 26 15:51:41 2022 -0400
+
+    add demo_data
+
+[33mcommit a22da835c091553a17ef02da94c95a39c831ad6a[m
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Wed Mar 23 18:00:44 2022 -0400
+
+    update
+
+[33mcommit 672f4f31a3fc60199dc14e289070da5020beee3b[m
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Tue Mar 22 16:15:26 2022 -0400
+
+    update
+
+[33mcommit e915e60d0a321f95a4c7e201ba5bdbc3fec03d11[m
+Merge: 2695c46 e3808bb
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Mon Mar 21 02:46:10 2022 -0400
+
+    update
+
+[33mcommit 2695c461c714f318dfab14538406929194c47c9d[m
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Mon Mar 21 02:45:42 2022 -0400
+
+    udpate
+
+[33mcommit e3808bb8229554b58a8804ef9c6c976f3d415160[m
+Author: Yen-Chi Cheng <charlescheng0117@gmail.com>
+Date:   Mon Mar 21 02:45:05 2022 -0400
+
+    Update
+
+[33mcommit 3548cf547803019ec33bf1041b580a80da2be393[m
+Author: Yen-Chi Cheng <charlescheng0117@gmail.com>
+Date:   Mon Mar 21 02:41:40 2022 -0400
+
+    Update
+
+[33mcommit 510633b3c9faa02ff51a9df4d27aaa7d90e6e91b[m
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Mon Mar 21 02:18:03 2022 -0400
+
+    release
+
+[33mcommit 29adcb902a6ddddb5a5e9001581e1322f7f56b4f[m
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Fri Mar 4 02:05:18 2022 -0500
+
+    update readme
+
+[33mcommit 47920d9236cf25e5da7a08b750e0978714c513b0[m
+Author: yccyenchicheng <charlescheng0117@gmail.com>
+Date:   Thu Mar 3 15:37:09 2022 -0500
+
+    add readme

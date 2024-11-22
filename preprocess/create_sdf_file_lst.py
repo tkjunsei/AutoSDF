@@ -27,6 +27,11 @@ json_f_dict = {
         'shapenet': '.json',
         'pix3d': 'info-euclid-pix3d.json'
     }, 
+    'dl-box8': {
+        'abc': 'info-euclid-abc.json',
+        'shapenet': '.json',
+        'pix3d': 'info-euclid-pix3d.json'
+    }
 }
 
 def get_all_info(dset):

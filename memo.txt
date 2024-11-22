@@ -1,0 +1,4 @@
+DISNのdata/ディレクトリを移動させ，disn_dataとした．
+次に，disn_dataのfilelistsディレクトリを,AutoSDFのdata/ShapeNet/filelistsディレクトリに移動.info.jsonファイルを複製
+mcubesでモジュールエラーが起きたのでpip install PyMCubes　した
+

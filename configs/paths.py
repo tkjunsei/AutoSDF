@@ -18,3 +18,7 @@ elif hostname == 'euclid':
     if username == 'yenchi':
         dataroot = '/data/yenchi/generative_transformers/data'
         logroot = '/data/yenchi/generative_transformers/logs'
+elif hostname == 'dl-box8':
+    if username == 'junsei':
+        dataroot ='/home/junsei/Downloads/GitHub/AutoSDF/data'
+        logroot = '/home/junsei/Downloads/GitHub/AutoSDF/logs'
